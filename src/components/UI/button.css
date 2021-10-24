@@ -1,0 +1,14 @@
+.button{
+    font: inherit;
+    background: rgb(175, 4, 255);
+    color: white;
+    border: 1px rgb(139, 3, 202);
+    cursor: pointer;
+padding: 0.1rem 2rem;
+}
+.button:hover,
+.button:active{
+    background: rgb(155, 1, 226);
+    border-color: rgb(85, 2, 124);
+
+}
